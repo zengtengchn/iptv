@@ -12,7 +12,7 @@ http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u
 #EXTINF:-1 ,CCTV-15音乐[高清]
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 ,CCTV-16奥林匹克[高清]
-http://39.134.138.60/17.m3u
+https://cctv5cncw.v.wscdns.com/live/cctv16_1/index.m3u8?adapt=0&BR=pub
 #EXTINF:-1 ,CCTV-17农业农村[高清]
 http://39.134.134.85/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CCTV-1综合[高清]
