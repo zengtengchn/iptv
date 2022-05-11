@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1, CCTV1
-https://cctvaliw.v.myalicdn.com/live/cctv1_1/index.m3u8
+rtp://239.253.112.17:9000
+#EXTINF:-1, CCTV2
+rtp://239.253.112.18:9000
+#EXTINF:-1, CCTV3
+rtp://239.253.112.19:9000
+#EXTINF:-1, CCTV4
+rtp://239.253.112.20:9000
+#EXTINF:-1, CCTV5
+rtp://239.253.112.21:9000
+#EXTINF:-1, CCTV6
+rtp://239.253.112.22:9000
