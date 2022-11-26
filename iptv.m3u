@@ -1,27 +1,43 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1HD
+#EXTINF:-1 ,CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1 ,CCTV-2HD
+#EXTINF:-1 ,CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 ,CCTV-3HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
-#EXTINF:-1 ,CCTV-4HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
-#EXTINF:-1 ,CCTV-5HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-#EXTINF:-1 ,CCTV5+HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-#EXTINF:-1 ,CCTV-6HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
-#EXTINF:-1 ,CCTV-7HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
-#EXTINF:-1 ,CCTV-8HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
-#EXTINF:-1 ,CCTV-9HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
-#EXTINF:-1 ,CCTV-10HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
-#EXTINF:-1 ,CCTV-12HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
-#EXTINF:-1 ,CCTV-14HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+#EXTINF:-1 ,CCTV-3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 ,CCTV-4
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 ,CCTV-5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 ,CCTV-6
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 ,CCTV-7
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 ,CCTV-8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 ,CCTV-9
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 ,CCTV-10
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 ,CCTV-11
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+#EXTINF:-1 ,CCTV-12
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 ,CCTV-13
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 ,CCTV-14
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 ,CCTV-16
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 ,CCTV-17
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,翡翠台
+http://113.64.147.180:808/hls/67/index.m3u8
