@@ -519,3 +519,5 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",香港台
 http://113.117.74.8:808/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",BBC2
+http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
