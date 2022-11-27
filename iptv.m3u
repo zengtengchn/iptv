@@ -507,4 +507,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="数字频道",综合-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
