@@ -515,3 +515,5 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 http://113.64.147.180:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",新加坡
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",美国中文电视
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
