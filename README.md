@@ -1,7 +1,7 @@
 # Readme
 For private use only, please light up the stars if you like it.
 
-# iptv
+# Playlist
 https://raw.githubusercontent.com/zengtengchn/iptv/main/iptv.m3u
 
 # epg
