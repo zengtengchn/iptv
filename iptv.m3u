@@ -511,17 +511,35 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",翡翠台
-http://113.64.147.180:808/hls/67/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",新加坡
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",美国中文电视
-http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",香港台
-http://113.117.74.8:808/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",BBC2
-http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他",BestTV超级体育
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",HBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1059142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",翡翠台
+http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",无线新闻
+http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",有线新闻
+http://103.214.71.71:1635/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",有线财经
+http://103.214.71.71:1651/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",香港国际财经
+http://103.214.71.71:1645/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",HOY TV
+http://103.214.71.71:1637/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",凤凰资讯台
+http://103.214.71.71:1642/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",RHK32
+http://103.214.71.71:1648/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",面包台娱乐台
+http://103.214.71.71:1639/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",TVBS56
+http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",中天新闻
+http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",民视新闻
+http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",三立新闻+
+http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",东森新闻
+http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",东森幼幼台
+http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",寰宇新闻
+http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
