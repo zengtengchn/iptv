@@ -507,9 +507,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="数字频道",综合-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",凤凰资讯
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他频道",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="国际",凤凰中文
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他频道",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="香港频道",翡翠台
 http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
@@ -543,3 +543,5 @@ http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWD
 http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="台湾频道",寰宇新闻
 http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="其他频道",其他频道
+http://103.214.71.71:1675/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
